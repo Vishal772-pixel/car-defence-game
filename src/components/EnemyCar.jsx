@@ -10,7 +10,7 @@ export const EnemyCar = ({ position }) => {
       }}
     >
       <img
-        src="./public/assets/car.png"
+        src="./car.png"
         alt="Enemy Car"
         className="w-full h-full object-cover rounded-lg"
       />
